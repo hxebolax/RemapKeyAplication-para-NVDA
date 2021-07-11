@@ -12,13 +12,22 @@ A la hora de asignar una combinación de teclas o una única tecla tenemos que t
 
 Por ejemplo Ctrl + Flecha abajo podría funcionarnos en la mayoría de parte del sistema pero nos daría error en Google Chrome no dejando sacar el menú contextual.
 
-Por poner un ejemplo yo suelo poner la tecla Imprimir pantalla que suele estar en la fila superior en la parte derecha y suele ser la segunda o tercera tecla.
+Por poner un ejemplo yo suelo poner la tecla "imprimir pantalla" que suele estar en la fila superior en la parte derecha y suele ser la segunda o tercera tecla.
 
-Bien podemos saber cual es si usamos la ayuda de NVDA, para ello pulsamos tecla NVDA + 1 y empezamos a explorar las teclas, cuando nos diga imprimir pantalla esa será la tecla que buscábamos. Podemos salir de la ayuda de NVDA pulsando de nuevo NVDA + 1.
+Bien podemos saber cual es si usamos la ayuda de entrada de NVDA, para ello pulsamos tecla NVDA + 1 y empezamos a explorar las teclas en el teclado, cuando nos diga "imprimir pantalla" esa será la tecla que buscábamos. Podemos salir de la ayuda de entrada de NVDA pulsando de nuevo NVDA + 1.
 
 Esto es un ejemplo quedando a gusto del usuario elegir su tecla o combinación de teclas.
 
+## Traductores y colaboradores:
+
+* Francés: Rémy Ruiz
+
 # Registro de cambios.
+## Versión 0.1.5.
+
+* Arreglado problema en complementos de NVDA.
+* Agregado idioma Francés.
+
 ## Versión 0.1.
 
 * Versión inicial.
