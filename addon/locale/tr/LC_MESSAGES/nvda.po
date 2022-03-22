@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the 'RemapKeyAplication' package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 'Uygulama Tuşunu yeniden eşle' '0.1.5'\n"
+"Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
+"POT-Creation-Date: 2021-07-11 13:55+0200\n"
+"PO-Revision-Date: 2021-12-20 19:05+0300\n"
+"Last-Translator: Umut KORKMAZ <umutkork@gmail.com>\n"
+"Language-Team: Umut KORKMAZ <umutkork@gmail.com>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#. add-on Name/identifier, internal for NVDA
+#: buildVars.py:19 addon\globalPlugins\RemapKeyAplication.py:15
+msgid "RemapKeyAplication"
+msgstr "Uygulama Tuşunu Yeniden Eşle"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+#: buildVars.py:23
+msgid "RemapKeyAplication para NVDA"
+msgstr "NVDA için Uygulama Tuşunu yeniden eşle"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:26
+msgid "Simula la tecla aplicaciones"
+msgstr "Uygulama tuşunu Taklit Et"
+
+#: addon\globalPlugins\RemapKeyAplication.py:15
+msgid "Simular tecla Aplicaciones"
+msgstr "Uygulama Tuşunu Taklit Et"
