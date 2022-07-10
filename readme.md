@@ -23,6 +23,18 @@ Esto es un ejemplo quedando a gusto del usuario elegir su tecla o combinación d
 * Francés: Rémy Ruiz
 
 # Registro de cambios.
+## Versión 0.3.
+
+* Agregada la posibilidad de clic izquierdo y derecho del ratón al foco.
+
+Tendremos que asignar las correspondientes combinaciones de teclas en el Gestor de entradas.
+
+Cuando ejecutemos la acción se moverá el ratón al foco y se hará el correspondiente clic.
+
+## Versión 0.2.
+
+* Compatibilidad con NVDA 2022
+
 ## Versión 0.1.5.
 
 * Arreglado problema en complementos de NVDA.

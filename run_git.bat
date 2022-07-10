@@ -1,10 +1,11 @@
 @cls
 @echo off
 scons --clean
+scons pot
 git init
 git add --all
-git commit -m "Versión 0.2"
+git commit -m "Versión 0.3"
 git push -u origin master
-git tag 0.2
+git tag 0.3
 git push --tags
 pause
