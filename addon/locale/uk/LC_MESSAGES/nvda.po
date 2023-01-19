@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the 'RemapKeyAplication' package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 'RemapKeyAplication' '0.3'\n"
+"Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
+"POT-Creation-Date: 2022-12-30 20:02+0300\n"
+"PO-Revision-Date: 2023-01-02 00:38+0300\n"
+"Last-Translator: Heorhii <nvda.translation.uk@gmail.com>\n"
+"Language-Team: \n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. add-on Name/identifier, internal for NVDA
+#: buildVars.py:19 addon\globalPlugins\RemapKeyAplication\__init__.py:21
+#: addon\globalPlugins\RemapKeyAplication\__init__.py:25
+#: addon\globalPlugins\RemapKeyAplication\__init__.py:29
+msgid "RemapKeyAplication"
+msgstr "RemapKeyAplication"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+#: buildVars.py:23
+msgid "RemapKeyAplication para NVDA"
+msgstr "RemapKeyApplication для NVDA"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:26
+msgid "Simula la tecla aplicaciones"
+msgstr "Імітує клавішу контекстного меню"
+
+#: addon\globalPlugins\RemapKeyAplication\__init__.py:21
+msgid "Simular tecla Aplicaciones"
+msgstr "Викликає контекстне меню"
+
+#: addon\globalPlugins\RemapKeyAplication\__init__.py:25
+msgid "Simular clic izquierdo del ratón al foco"
+msgstr "Приводить курсор миші на об'єкт у фокусі і імітує ліве натискання"
+
+#: addon\globalPlugins\RemapKeyAplication\__init__.py:29
+msgid "Simular clic derecho del ratón al foco"
+msgstr "Приводить курсор миші на об'єкт у фокусі і імітує праве натискання"
