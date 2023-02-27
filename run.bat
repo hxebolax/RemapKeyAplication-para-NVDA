@@ -2,4 +2,4 @@
 @echo off
 scons --clean
 scons
-RemapKeyAplication-0.3.nvda-addon
+RemapKeyAplication-0.4.nvda-addon

@@ -5,10 +5,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 'Uygulama Tuşunu yeniden eşle' '0.1.5'\n"
+"Project-Id-Version: 'Uygulama Tuşunu yeniden eşle' '0.3'\n"
 "Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
-"POT-Creation-Date: 2021-07-11 13:55+0200\n"
-"PO-Revision-Date: 2021-12-20 19:05+0300\n"
+"POT-Creation-Date: 2022-07-10 19:37+0200\n"
+"PO-Revision-Date: 2022-07-10 22:06+0300\n"
 "Last-Translator: Umut KORKMAZ <umutkork@gmail.com>\n"
 "Language-Team: Umut KORKMAZ <umutkork@gmail.com>\n"
 "Language: tr_TR\n"
@@ -16,11 +16,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.1.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #. add-on Name/identifier, internal for NVDA
-#: buildVars.py:19 addon\globalPlugins\RemapKeyAplication.py:15
+#: buildVars.py:19 addon\globalPlugins\RemapKeyAplication\__init__.py:21
+#: addon\globalPlugins\RemapKeyAplication\__init__.py:25
+#: addon\globalPlugins\RemapKeyAplication\__init__.py:29
 msgid "RemapKeyAplication"
 msgstr "Uygulama Tuşunu Yeniden Eşle"
 
@@ -37,6 +39,14 @@ msgstr "NVDA için Uygulama Tuşunu yeniden eşle"
 msgid "Simula la tecla aplicaciones"
 msgstr "Uygulama tuşunu Taklit Et"
 
-#: addon\globalPlugins\RemapKeyAplication.py:15
+#: addon\globalPlugins\RemapKeyAplication\__init__.py:21
 msgid "Simular tecla Aplicaciones"
-msgstr "Uygulama Tuşunu Taklit Et"
+msgstr "Uygulama Tuşunu Taklit Eder"
+
+#: addon\globalPlugins\RemapKeyAplication\__init__.py:25
+msgid "Simular clic izquierdo del ratón al foco"
+msgstr "Odaklanmak için farenin sol tıklamasını taklit eder"
+
+#: addon\globalPlugins\RemapKeyAplication\__init__.py:29
+msgid "Simular clic derecho del ratón al foco"
+msgstr "Odaklanmak için sağ fare tıklamasını taklit eder"

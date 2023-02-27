@@ -21,15 +21,28 @@ Esto es un ejemplo quedando a gusto del usuario elegir su tecla o combinación d
 ## Traductores y colaboradores:
 
 * Francés: Rémy Ruiz
+* Ruso: Valentin Kupriyanov
+* Ucraniano: VovaMobile
+* Turco: umut korkmaz
 
 # Registro de cambios.
+## Versión 0.4.
+
+* Agregados idioma Ruso, Ucraniano y Turco.
+
+* Añadida compatibilidad con NVDA 2023.1
+
 ## Versión 0.3.
+
+* Cambiado modo de invocar tecla aplicaciones nativo de NVDA por nativo de Windows.
+
+Se a cambiado la manera de invocar la tecla aplicaciones por un método más fiable y más directo con Windows.
 
 * Agregada la posibilidad de clic izquierdo y derecho del ratón al foco.
 
 Tendremos que asignar las correspondientes combinaciones de teclas en el Gestor de entradas.
 
-Cuando ejecutemos la acción se moverá el ratón al foco y se hará el correspondiente clic.
+Cuando ejecutemos la acción se moverá el ratón al foco y se hará el correspondiente clic y sonara un sonido indicando que se ejecuto el clic.
 
 ## Versión 0.2.
 

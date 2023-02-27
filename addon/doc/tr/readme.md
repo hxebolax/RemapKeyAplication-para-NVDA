@@ -21,6 +21,24 @@ Bir örnek genellikle sağ taraftaki üst sıradaki "print screen" tuşunu koyar
 * Türkçe: Umut KORKMAZ.  
 
 # Sürüm Geçmişi:  
+## Sürüm 0.3:
+
+* Yerel NVDA uygulamaları anahtarının yerel Windows'a çağrılma modu değiştirildi.
+
+Uygulamalar anahtarını çağırma yolu, Windows ile daha güvenilir ve daha doğrudan bir yöntemle değiştirildi.
+
+* Odaklanmak için sol ve sağ fare tıklaması yeteneği eklendi.
+
+Girdi hareketleri iletişim kutusunda karşılık gelen tuş kombinasyonlarını atamamız gerekecek.
+
+Eylemi gerçekleştirdiğimizde, fare odağa taşınacak, ilgili tıklama yapılacak ve tıklamanın gerçekleştirildiğini belirten bir ses duyulacaktır.
+
+
+## Sürüm 0.2:
+
+* NVDA 2022 ile uyumluluk.
+* Türkçe çeviri eklendi.
+
 ## Sürüm 0.1.5:  
 
 * NVDA Eklentisindeki sorun düzeltildi.  
